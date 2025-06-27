@@ -1691,3 +1691,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'boliviamod:rodaja_de_pina'
 [27Jun2025 21:10:36.130] [Server thread/DEBUG] [mixin/]: Mixing ServerEntityMixin from blueprint.mixins.json into net.minecraft.server.level.ServerEntity
 [27Jun2025 21:15:35.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 21:15:35.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 21:20:35.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 21:20:35.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 21:25:35.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 21:25:35.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
